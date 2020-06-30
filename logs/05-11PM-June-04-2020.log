@@ -1,0 +1,43 @@
+2020-06-04 17:11:07,146-log in orange hrm-INFO-TC_001_test_orange_hrm_admin_login_with_valid_user_and_password
+2020-06-04 17:11:10,782-log in orange hrm-INFO-chrome browser launch successfully
+2020-06-04 17:11:31,828-log in orange hrm-INFO-enter_user_name
+2020-06-04 17:11:32,449-log in orange hrm-INFO-password entered
+2020-06-04 17:11:42,233-log in orange hrm-INFO-clicked on log in button
+2020-06-04 17:11:44,843-log in orange hrm-INFO-application closed
+2020-06-04 17:11:44,848-log in orange hrm-INFO-TC_002_test_orange_hrm_admin_login_with_valid_user_and_password_and_logout
+2020-06-04 17:11:48,632-log in orange hrm-INFO-chrome browser launch successfully
+2020-06-04 17:12:03,145-log in orange hrm-INFO-enter_user_name
+2020-06-04 17:12:03,742-log in orange hrm-INFO-password entered
+2020-06-04 17:13:11,602-log in orange hrm-INFO-clicked on log in button
+2020-06-04 17:13:12,121-log in orange hrm-INFO-click_on_welcome_admin
+2020-06-04 17:13:13,597-log in orange hrm-INFO-click_on_logout_link
+2020-06-04 17:13:16,491-log in orange hrm-INFO-application closed
+2020-06-04 17:13:16,495-log in orange hrm-INFO-TC_003_test_orange_hrm_admin_login_with_invalid_user_name_and_valid_password
+2020-06-04 17:13:20,420-log in orange hrm-INFO-chrome browser launch successfully
+2020-06-04 17:14:05,620-log in orange hrm-INFO-enter_user_name
+2020-06-04 17:14:06,224-log in orange hrm-INFO-password entered
+2020-06-04 17:14:07,648-log in orange hrm-INFO-clicked on log in button
+2020-06-04 17:14:08,038-log in orange hrm-INFO-verifying actual error msg with expected error msg
+2020-06-04 17:14:08,209-log in orange hrm-INFO-TC_004_test_orange_hrm_admin_login_with_valid_user_name_and_invalid_password
+2020-06-04 17:14:12,043-log in orange hrm-INFO-chrome browser launch successfully
+2020-06-04 17:14:24,748-log in orange hrm-INFO-enter_user_name
+2020-06-04 17:14:25,262-log in orange hrm-INFO-password entered
+2020-06-04 17:14:29,652-log in orange hrm-INFO-clicked on log in button
+2020-06-04 17:14:30,091-log in orange hrm-INFO-verifying actual error msg with expected error msg
+2020-06-04 17:14:30,109-log in orange hrm-INFO-TC_005_test_orange_hrm_admin_login_with_invalid_user_name_and_invalid_password
+2020-06-04 17:14:34,431-log in orange hrm-INFO-chrome browser launch successfully
+2020-06-04 17:14:49,656-log in orange hrm-INFO-enter_user_name
+2020-06-04 17:14:50,228-log in orange hrm-INFO-password entered
+2020-06-04 17:14:51,609-log in orange hrm-INFO-clicked on log in button
+2020-06-04 17:14:51,983-log in orange hrm-INFO-verifying actual error msg with expected error msg
+2020-06-04 17:14:52,000-log in orange hrm-INFO-TC_006_test_orange_hrm_admin_login_without_user_name_and_valid_password
+2020-06-04 17:14:56,014-log in orange hrm-INFO-chrome browser launch successfully
+2020-06-04 17:15:04,848-log in orange hrm-INFO-password entered
+2020-06-04 17:15:05,387-log in orange hrm-INFO-clicked on log in button
+2020-06-04 17:15:06,286-log in orange hrm-INFO-verifying actual error msg with expected error msg
+2020-06-04 17:15:06,318-log in orange hrm-INFO-TC_007_test_orange_hrm_admin_login_with_valid_user_name_and_without_password
+2020-06-04 17:15:13,327-log in orange hrm-INFO-chrome browser launch successfully
+2020-06-04 17:16:48,320-log in orange hrm-INFO-TC_00_8_test_orange_hrm_admin_login_without_user_name_and_without_password
+2020-06-04 17:17:29,909-log in orange hrm-INFO-chrome browser launch successfully
+2020-06-04 17:17:55,970-log in orange hrm-INFO-clicked on log in button
+2020-06-04 17:17:56,405-log in orange hrm-INFO-verifying actual error msg with expected error msg
